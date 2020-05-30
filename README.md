@@ -4,5 +4,6 @@ Entrega de el proyecto Web App mis Videos, Programación Web Avanzada.
 
 
 Integrantes: Rainerio Amézquita Sánchez,
-             Roberto Sánchez Flores
+
+             Roberto Adrián Sánchez Flores
 
